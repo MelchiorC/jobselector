@@ -11,5 +11,6 @@ config_version=5
 [application]
 
 config/name="JobSelector"
+run/main_scene="uid://do7ty8f6hqde1"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
